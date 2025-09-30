@@ -11,3 +11,6 @@ Here you'll find:
 - Interested in data analysis, AI, and applied statistics
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/seojeong-hong-933973256).
+
+------
+last updated: 2024-09-30
